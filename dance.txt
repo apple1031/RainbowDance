@@ -1,4 +1,5 @@
 left
 right
 jump
+Twirl your hands
 Rainbow dance
